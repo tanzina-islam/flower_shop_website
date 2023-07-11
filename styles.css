@@ -133,6 +133,40 @@ main{
     line-height: 35px;
     text-decoration-line: underline;
 }
+/*flower tree text  styles*/
+#flower-description
+{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+/*new arrival section description style*/
+.new-arrival{
+    background-color:#ecb9c4;
+    width: 1920px;
+    height: 850px;
+    display: block;
+    margin-top: 128px ;
+    text-align: center;
+}
+
+/*new arrival flowers pictures style*/
+.new-arrival-flowers-pic
+{   
+    margin:  110px 78px ;
+} 
+
+
+/*display flower pic style*/
+.flowers-pic-container{
+    margin: 32px 240px 68px 240px;
+    display:inline-flex; 
+    text-align: center;
+}
+
 /*hot deals section styles*/
 .hot-deals-section{
     border: 1922px 620px;
