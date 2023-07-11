@@ -232,3 +232,29 @@ div.instagram-pic:hover{
     display: inline-flex;
     margin:   48px 453px 121px 287px;
     }
+footer{
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+}
+.footer-section-title{
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+    padding:  128px 832px 0px 829px;
+}
+.footer-section-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 24px 248px;
+}
+.text{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 8px 750px 128px;
+}
